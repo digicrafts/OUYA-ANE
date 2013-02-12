@@ -1,4 +1,4 @@
 OUYA-ANE
 ========
 
-Air Native Extension for OUYA (iOS + Android) 
+Air Native Extension for OUYA
